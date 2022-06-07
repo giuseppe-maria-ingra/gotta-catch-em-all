@@ -9,7 +9,7 @@ import * as MRE from '@microsoft/mixed-reality-extension-sdk';
 /**
  * The main class of this app. All the logic goes here.
  */
-export default class UpYourArsenal {
+export default class GottaCatchEmAll {
 
 	private buttonAsset: MRE.AssetContainer;
 	private pokeballAsset: MRE.AssetContainer;
